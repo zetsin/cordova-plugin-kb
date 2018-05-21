@@ -23,8 +23,7 @@ var argscheck = require('cordova/argscheck'),
     utils = require('cordova/utils'),
     exec = require('cordova/exec');
    
-var Keyboard = function() {
-};
+var Keyboard = {};
 
 Keyboard.shrinkView = function(shrink, success) {
     if (shrink !== null && shrink !== undefined) {
