@@ -1,6 +1,13 @@
 {
+  "name": "cordova-plugin-kb",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "",
-  "bundleDependencies": false,
+  "license": "ISC",
   "cordova": {
     "id": "cordova-plugin-kb",
     "platforms": [
@@ -8,14 +15,10 @@
       "ios"
     ]
   },
-  "description": "keyboard",
   "keywords": [
     "cordova",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios"
-  ],
-  "license": "Apache 2.0",
-  "name": "cordova-plugin-kb",
-  "version": "0.0.1"
+  ]
 }
