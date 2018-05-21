@@ -1,0 +1,21 @@
+{
+  "author": "",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-kb",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "keyboard",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-kb",
+  "version": "0.0.1"
+}

@@ -5,9 +5,10 @@
     version="0.3.1">
     <name>keyboard</name>
     <description>keyboard</description>
+    <license>Apache 2.0</license>
     <keywords>cordova, keyboard</keywords>
     <js-module src="www/keyboard.js" name="keyboard">
-        <merges target="keyboard" />
+        <clobbers target="keyboard" />
     </js-module>
 
     <!-- ios -->
